@@ -1,0 +1,21 @@
+\begin{table}[ht]
+\centering
+\resizebox{\textwidth}{!}{
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+\hline
+k & threshold & sil & db & ch & ari & fmi & purity \\
+\hline
+8 & 0.80 & 0.561 & 0.992 & 5012.216 & 0.502 & 0.567 & 0.646 \\
+\hline
+9 & 0.80 & 0.563 & 0.949 & 4958.496 & 0.515 & 0.575 & 0.682 \\
+\hline
+10 & 0.85 & 0.547 & 1.075 & 3974.102 & 0.556 & 0.607 & 0.706 \\
+\hline
+11 & 0.85 & 0.347 & 1.151 & 3917.323 & 0.605 & 0.645 & 0.798 \\
+\hline
+12 & 0.85 & 0.352 & 1.156 & 3866.193 & 0.627 & 0.664 & 0.809 \\
+\hline
+\end{tabular}}
+\caption{Best pen-based K-Means Clustering Results per k (External Weight: 0.5)}
+\label{tab:pen-based_kmeans}
+\end{table}

@@ -1,0 +1,20 @@
+\begin{table}[ht]
+\centering
+\begin{tabular}{|c|c|c|}
+\hline
+Threshold & Components & Reduction (\%) \\
+\hline
+0.80 & 9 & 57.1 \\
+\hline
+0.85 & 10 & 52.4 \\
+\hline
+0.90 & 11 & 47.6 \\
+\hline
+0.95 & 13 & 38.1 \\
+\hline
+0.99 & 16 & 23.8 \\
+\hline
+\end{tabular}
+\caption{PCA Variance Analysis for MinMax Scaled cmc Dataset }
+\label{tab:pcacmc_variance}
+\end{table}

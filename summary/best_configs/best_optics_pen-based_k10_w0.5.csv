@@ -1,0 +1,2 @@
+Number of Clusters,threshold,min_samples,max_epsilon,metric,algorithm
+10,0.8,15,1.0,euclidean,brute

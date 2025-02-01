@@ -1,0 +1,20 @@
+\begin{table}[ht]
+\centering
+\begin{tabular}{|c|c|c|c|}
+\hline
+Threshold & Components & Original Dimensions & Reduction (\%) \\
+\hline
+0.80 & 11 & 19 & 42.1 \\
+\hline
+0.85 & 13 & 19 & 31.6 \\
+\hline
+0.90 & 14 & 19 & 26.3 \\
+\hline
+0.95 & 16 & 19 & 15.8 \\
+\hline
+0.99 & 19 & 19 & 0.0 \\
+\hline
+\end{tabular}
+\caption{PCA Variance Analysis for Standard Scaled hepatitis Dataset }
+\label{tab:pca_hepatitis_variance}
+\end{table}

@@ -1,0 +1,3 @@
+min_samples,max_eps,xi,n_clusters,n_noise,noise_percentage,diff_from_11
+11,1.5,0.0577,10,10784,98.10771470160117,1
+11,2.7,0.0577,10,10784,98.10771470160117,1
